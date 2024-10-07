@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @dhiruXbitsDev
+- 👋 Hi, I’m @dhiruXDev
 - 👀 I’m interested in web development, especially in the MERN stack.
 - 🌱 I’m currently learning advanced React techniques and exploring backend optimizations.
 - 💞️ I’m looking to collaborate on open-source projects, especially those involving JavaScript, React, Node.js.
