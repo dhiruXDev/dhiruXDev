@@ -1,77 +1,87 @@
-- 👋 Hi, I’m @dhiruXDev
-- 👀 I’m interested in web development, especially in the MERN stack.
-- 🌱 I’m currently learning advanced React techniques and exploring backend optimizations.
-- 💞️ I’m looking to collaborate on open-source projects, especially those involving JavaScript, React, Node.js.
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: I’m passionate about exploring new technologies and enjoy experimenting with tech gadgets in my spare time!
-
-
-
-<!---
-dhiruXbitsDev/dhiruXbitsDev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
 <h1 align="center">Hi 👋, I'm Chatty</h1>
-<h3 align="center">A passionate MERN Stack Developer & Competitive Programmer from India 🇮🇳</h3>
+<h3 align="center">🚀 MERN Stack Developer | 💻 Competitive Programmer | 🤖 AI Builder</h3>
+
+<p align="center">
+  <a href="mailto:your-email@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/your-profile">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/YOUR_USERNAME">
+    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" />
+  </a>
+</p>
 
 ---
 
-### 🚀 About Me
+## 🧠 About Me
 
-- 🌱 Currently mastering **Data Structures & Algorithms**
-- 💻 Building **Full Stack Projects (MERN + AI Integration)**
-- 🤖 Exploring **AI-powered applications & automation (Jarvis-like assistant)**
-- 🧠 Strong interest in **System Design & Real-world problem solving**
-- 🎯 Goal: Crack top tech companies & build impactful products
-
----
-
-### 🔥 What I'm Working On
-
-- 💬 AI-powered Chat Applications  
-- 🏥 **MediSync** – Hospital Management System with AI features  
-- 💼 Job Portal with smart filtering + chatbot  
-- 🤖 Personal AI Assistant (Jarvis-style)
+- 🌱 Learning **Data Structures & Algorithms (DSA)**
+- 💻 Building **Full Stack Applications using MERN Stack**
+- 🤖 Developing **AI-powered systems & chatbots**
+- 🔐 Exploring **Cybersecurity & Threat Intelligence**
+- 🧩 Love solving **complex real-world problems**
+- 🎯 Target: **Top Tech Companies + Scalable Products**
 
 ---
 
-### 🤝 Looking to Collaborate On
+## ⚒️ What I'm Currently Working On
 
-- AI/ML + Web Development Projects  
-- Open Source Contributions  
-- Real-world scalable systems  
-
----
-
-### 📫 Reach Me
-
-- 📧 Email: your-email@gmail.com  
-- 💼 LinkedIn: https://linkedin.com/in/your-profile  
-- 🌐 Portfolio: (Add when ready)
+- 🤖 **Jarvis-like AI Assistant (MERN + Python Hybrid)**
+- 💬 **Real-time Chat App (WhatsApp Clone)**
+- 🏥 **MediSync – Hospital Management System**
+- 💼 **Job Portal with Smart Filters + AI Chatbot**
+- 📊 AI-powered **GitHub Code Explainer**
 
 ---
 
-### ⚡ Tech Stack
+## 🤝 Collaboration
 
-#### 💻 Languages
+- 🚀 Open to **AI + Web Development Projects**
+- 💡 Interested in **Startups & Innovative Ideas**
+- 🌍 Open Source Contributions
+
+---
+
+## 📫 Contact Me
+
+- 📧 Email: **your-email@gmail.com**
+- 💼 LinkedIn: **https://linkedin.com/in/your-profile**
+- 🌐 Portfolio: *(Coming Soon)*
+
+---
+
+## 💻 Tech Stack
+
+### 🚀 Languages
 <p>
   <img src="https://skillicons.dev/icons?i=c,cpp,js,python" />
 </p>
 
-#### 🌐 Web Development
+### 🌐 Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,tailwind" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css" />
 </p>
 
-#### ⚙️ Tools & Technologies
+### ⚙️ Backend
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,postman,vercel,render,firebase,cloudinary" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
+### 🗄️ Database & Cloud
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,firebase,cloudinary" />
+</p>
+
+### 🛠️ Tools & Platforms
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,postman,vercel,render,vscode" />
 </p>
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
@@ -81,16 +91,45 @@ You can click the Preview link to take a look at your changes.
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
+</p>
+
 ---
 
-### 🧠 Quote I Live By
+## 🔥 Highlight Projects
+
+### 🏥 MediSync (Hospital Management System)
+- Role-based dashboards (Admin, Doctor, Patient)
+- Appointment booking & EHR system
+- AI-powered lab report analysis
+- Tech: MERN + Cloudinary + Twilio
+
+---
+
+### 💬 WhatsApp Clone
+- Real-time messaging (Socket.io)
+- Audio/Video calling (Zego)
+- Google Auth (Firebase)
+- Tech: Next.js + PostgreSQL + Prisma
+
+---
+
+### 💼 Job Portal
+- Dynamic job filtering (Redux)
+- Chatbot integration
+- Scalable UI with Tailwind
+
+---
+
+## 🧠 Quote
 
 > "First, solve the problem. Then, write the code."
 
 ---
 
-### 👀 Profile Views
+## 👀 Profile Views
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=0e75b6&style=flat" />
-</p>****
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=blue&style=flat" />
+</p>
