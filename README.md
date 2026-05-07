@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="./header.svg" width="100%" />
+</p>
 <h1 align="center">Hi 👋, I'm Dhiraj</h1>
 <h3 align="center">🚀 MERN Stack Developer | 💻 Competitive Programmer | 🤖 AI Builder</h3>
 
