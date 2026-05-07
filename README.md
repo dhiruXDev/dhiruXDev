@@ -21,12 +21,15 @@
 
 ## 🧠 About Me
 
-- 🌱 Learning **Data Structures & Algorithms (DSA)**
-- 💻 Building **Full Stack Applications using MERN Stack**
-- 🤖 Developing **AI-powered systems & chatbots**
-- 🔐 Exploring **Cybersecurity & Threat Intelligence**
-- 🧩 Love solving **complex real-world problems**
-- 🎯 Target: **Top Tech Companies + Scalable Products**
+- Full Stack Developer specializing in the MERN Stack ecosystem
+- Building modern, scalable, and responsive web applications
+- Competitive Programmer passionate about DSA and problem-solving
+- Developing AI-powered applications, chatbots, and intelligent systems
+- Exploring Cybersecurity, Threat Intelligence, and Secure Architectures
+- Working with APIs, Authentication, Cloudinary, Prisma, and Real-time Technologies
+- Passionate about transforming real-world ideas into impactful digital products
+- Continuously learning new technologies and improving development skills
+- Goal: Build scalable products and grow as a top-tier software engineer
 
 ---
 
@@ -82,6 +85,123 @@
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,postman,vercel,render,vscode" />
 </p>
+
+---
+
+## 💻 Tech Arsenal
+
+<div align="center">
+
+### Frontend Development
+<p align="center">
+  <a href="https://react.dev/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=react" />
+  </a>
+  <a href="https://nextjs.org/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=nextjs" />
+  </a>
+  <a href="https://tailwindcss.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=tailwind" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+    <img src="https://skillicons.dev/icons?i=html" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+    <img src="https://skillicons.dev/icons?i=css" />
+  </a>
+  <a href="https://redux.js.org/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=redux" />
+  </a>
+</p>
+
+---
+
+### Backend Development
+<p align="center">
+  <a href="https://nodejs.org/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=nodejs" />
+  </a>
+  <a href="https://expressjs.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=express" />
+  </a>
+  <a href="https://socket.io/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=socketio" />
+  </a>
+  <a href="https://jwt.io/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=jwt" />
+  </a>
+</p>
+
+---
+
+### Database & Cloud
+<p align="center">
+  <a href="https://www.mongodb.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=mongodb" />
+  </a>
+  <a href="https://www.postgresql.org/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=postgres" />
+  </a>
+  <a href="https://firebase.google.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=firebase" />
+  </a>
+  <a href="https://www.prisma.io/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=prisma" />
+  </a>
+  <a href="https://cloudinary.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=cloudinary" />
+  </a>
+</p>
+
+---
+
+### Programming Languages
+<p align="center">
+  <a href="https://en.cppreference.com/w/c" target="_blank">
+    <img src="https://skillicons.dev/icons?i=c" />
+  </a>
+  <a href="https://isocpp.org/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=cpp" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img src="https://skillicons.dev/icons?i=js" />
+  </a>
+  <a href="https://www.typescriptlang.org/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=ts" />
+  </a>
+  <a href="https://www.java.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=java" />
+  </a>
+</p>
+
+---
+
+### Tools & Platforms
+<p align="center">
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=git" />
+  </a>
+  <a href="https://github.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
+  <a href="https://code.visualstudio.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=vscode" />
+  </a>
+  <a href="https://www.postman.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=postman" />
+  </a>
+  <a href="https://vercel.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=vercel" />
+  </a>
+  <a href="https://render.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=render" />
+  </a>
+  <a href="https://www.figma.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=figma" />
+  </a>
+</p>
+
+</div>
 
 ---
 
