@@ -18,7 +18,6 @@ svg {
   top:-5px;
   transform: rotate(180deg);
   overflow:visible;
-  background: #0F2E2E;
 }
 
 rect.headerRect {
@@ -27,7 +26,6 @@ rect.headerRect {
 }
 rect.headerRect:hover {
   fill: yellow;
-  <!-- fill: #00A693; -->
   fill-opacity: 50%;
 }
 
@@ -39,17 +37,14 @@ rect.headerRect:hover {
 
 .wave:hover {
   fill: #5457ff;
-  <!-- fill: #98FF98; -->
 }
 
 .drop:hover {
   fill: #C9FFE5;
-  <!-- fill: #B8F2E6; -->
 }
 
 .drop {
   fill: #4447e3;
-  <!-- fill: #2A9D8F; -->
   xfill: #99000055;
   animation: drop 8.2s linear infinite normal;
   stroke: #4447e3;
