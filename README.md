@@ -87,21 +87,25 @@
 </p>
 
 ---
-
-## 💻 Tech Arsenal
+## ⚡ Tech Stack & Tools
 
 <div align="center">
 
-### Frontend Development
+<table>
+<tr>
+<td valign="top" width="50%">
+
+## 🌐 Frontend Development
+
 <p align="center">
   <a href="https://react.dev/" target="_blank">
     <img src="https://skillicons.dev/icons?i=react" />
   </a>
+  <a href="https://redux.js.org/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=redux" />
+  </a>
   <a href="https://nextjs.org/" target="_blank">
     <img src="https://skillicons.dev/icons?i=nextjs" />
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=tailwind" />
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
     <img src="https://skillicons.dev/icons?i=html" />
@@ -109,14 +113,26 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
     <img src="https://skillicons.dev/icons?i=css" />
   </a>
-  <a href="https://redux.js.org/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=redux" />
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img src="https://skillicons.dev/icons?i=js" />
+  </a>
+  <a href="https://tailwindcss.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=tailwind" />
+  </a>
+  <a href="https://styled-components.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=styledcomponents" />
+  </a>
+  <a href="https://motion.dev/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=figma" />
   </a>
 </p>
 
----
+</td>
 
-### Backend Development
+<td valign="top" width="50%">
+
+## ⚙️ Backend Development
+
 <p align="center">
   <a href="https://nodejs.org/" target="_blank">
     <img src="https://skillicons.dev/icons?i=nodejs" />
@@ -130,14 +146,35 @@
   <a href="https://jwt.io/" target="_blank">
     <img src="https://skillicons.dev/icons?i=jwt" />
   </a>
+  <a href="https://www.npmjs.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=npm" />
+  </a>
+  <a href="https://restfulapi.net/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=fastapi" />
+  </a>
 </p>
+
+</td>
+</tr>
+</table>
 
 ---
 
-### Database & Cloud
+<table>
+<tr>
+<td valign="top" width="50%">
+
+## 🗄️ Database & Cloud
+
 <p align="center">
   <a href="https://www.mongodb.com/" target="_blank">
     <img src="https://skillicons.dev/icons?i=mongodb" />
+  </a>
+  <a href="https://www.mongodb.com/atlas/database" target="_blank">
+    <img src="https://skillicons.dev/icons?i=mongodb" />
+  </a>
+  <a href="https://www.mysql.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=mysql" />
   </a>
   <a href="https://www.postgresql.org/" target="_blank">
     <img src="https://skillicons.dev/icons?i=postgres" />
@@ -153,9 +190,12 @@
   </a>
 </p>
 
----
+</td>
 
-### Programming Languages
+<td valign="top" width="50%">
+
+## 💻 Programming Languages
+
 <p align="center">
   <a href="https://en.cppreference.com/w/c" target="_blank">
     <img src="https://skillicons.dev/icons?i=c" />
@@ -172,11 +212,22 @@
   <a href="https://www.java.com/" target="_blank">
     <img src="https://skillicons.dev/icons?i=java" />
   </a>
+  <a href="https://www.mathworks.com/products/matlab.html" target="_blank">
+    <img src="https://skillicons.dev/icons?i=matlab" />
+  </a>
+  <a href="https://www.mysql.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=mysql" />
+  </a>
 </p>
+
+</td>
+</tr>
+</table>
 
 ---
 
-### Tools & Platforms
+## 🛠️ Tools, Platforms & Deployment
+
 <p align="center">
   <a href="https://git-scm.com/" target="_blank">
     <img src="https://skillicons.dev/icons?i=git" />
@@ -190,14 +241,14 @@
   <a href="https://www.postman.com/" target="_blank">
     <img src="https://skillicons.dev/icons?i=postman" />
   </a>
+  <a href="https://www.figma.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=figma" />
+  </a>
   <a href="https://vercel.com/" target="_blank">
     <img src="https://skillicons.dev/icons?i=vercel" />
   </a>
   <a href="https://render.com/" target="_blank">
     <img src="https://skillicons.dev/icons?i=render" />
-  </a>
-  <a href="https://www.figma.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=figma" />
   </a>
 </p>
 
