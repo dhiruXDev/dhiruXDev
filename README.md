@@ -2,7 +2,7 @@
   <img src="./banner.svg" width="100%" />
 </p>
   
-<h1 align="center">Hi 👋, I'm Dhiraj</h1>
+<h1 align="center"> Hello there! fellow < developers !> 👋</h1>
 <h3 align="center">🚀 MERN Stack Developer | 💻 Competitive Programmer | 🤖 AI Builder</h3>
 
 <p align="center">
