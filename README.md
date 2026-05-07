@@ -3,16 +3,16 @@
 </p>
   
 <h1 align="center"> Hello there! fellow < developers !> 👋</h1>
-<h3 align="center">🚀 MERN Stack Developer | 💻 Competitive Programmer | 🤖 AI Builder</h3>
+<h3 align="center">MERN Stack Web Developer | Competitive Programmer |  AI Builder</h3>
 
 <p align="center">
-  <a href="mailto:your-email@gmail.com">
+  <a href="mailto:dhirajk22410@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/your-profile">
+  <a href="[https://linkedin.com/in/your-profile](https://www.linkedin.com/in/dhiraj-kumar-680762327/)">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://github.com/YOUR_USERNAME">
+  <a href="[https://github.com/YOUR_USERNAME](https://github.com/dhiruXDev)">
     <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" />
   </a>
 </p>
@@ -33,7 +33,7 @@
 ## ⚒️ What I'm Currently Working On
 
 - 🤖 **Jarvis-like AI Assistant (MERN + Python Hybrid)**
-- 💬 **Real-time Chat App (WhatsApp Clone)**
+- 💬 **Real-time Chat App (WhatsApp )**
 - 🏥 **MediSync – Hospital Management System**
 - 💼 **Job Portal with Smart Filters + AI Chatbot**
 - 📊 AI-powered **GitHub Code Explainer**
@@ -50,9 +50,9 @@
 
 ## 📫 Contact Me
 
-- 📧 Email: **your-email@gmail.com**
-- 💼 LinkedIn: **https://linkedin.com/in/your-profile**
-- 🌐 Portfolio: *(Coming Soon)*
+- 📧 Email: **dhirajk22410@gmail.com**
+- 💼 LinkedIn: **[https://linkedin.com/in/your-profile](https://www.linkedin.com/in/dhiraj-kumar-680762327/)**
+- 🌐 Portfolio: **https://my-portfoliyo-dhiraj-kumar.vercel.app/**
 
 ---
 
