@@ -59,32 +59,32 @@
 
 ---
 
-## 💻 Tech Stack
+ 
 
-### 🚀 Languages
-<p>
+ 
+<!-- <p>
   <img src="https://skillicons.dev/icons?i=c,cpp,js,python" />
-</p>
+</p> -->
 
-### 🌐 Frontend
-<p>
+ 
+<!-- <p>
   <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css" />
-</p>
+</p> -->
 
-### ⚙️ Backend
-<p>
+ 
+<!-- <p>
   <img src="https://skillicons.dev/icons?i=nodejs,express" />
-</p>
+</p> -->
 
-### 🗄️ Database & Cloud
-<p>
+ 
+<!-- <p>
   <img src="https://skillicons.dev/icons?i=mongodb,postgres,firebase,cloudinary" />
-</p>
+</p> -->
 
-### 🛠️ Tools & Platforms
-<p>
+
+<!-- <p>
   <img src="https://skillicons.dev/icons?i=git,github,postman,vercel,render,vscode" />
-</p>
+</p> -->
 
 ---
 ## ⚡ Tech Stack & Tools
@@ -206,6 +206,10 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
     <img src="https://skillicons.dev/icons?i=js" />
   </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank">
+    <img src="https://skillicons.dev/icons?i=python" />
+  </a>
+
   <a href="https://www.typescriptlang.org/" target="_blank">
     <img src="https://skillicons.dev/icons?i=ts" />
   </a>
