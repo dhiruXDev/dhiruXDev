@@ -16,20 +16,12 @@ Ultra-clean modern version:
   />
 </p>
 ````
+ 
 <div align="center">
 
-https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=61DAFB&center=true&vCenter=true&multiline=true&repeat=true&width=1000&height=180&lines=const+Developer+%3D+()%3D%3E+%7B;++++return+(;++++++++%3Ch1%3E;++++++++++++Hello+World!+Welcome%2C+fellow+developers+👋;++++++++%3C%2Fh1%3E;++++);%7D%3B
-
-
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&multiline=true&repeat=true&width=1100&height=180&lines=const+Developer+=+()+=%3E+%7B;%C2%A0%C2%A0return+(;%C2%A0%C2%A0%C2%A0%C2%A0%3Ch1%3E+Hello+World!+Welcome,+fellow+developers+%F0%9F%91%8B+%3C%2Fh1%3E;%C2%A0%C2%A0);;%7D;" alt="Typing SVG" />
 
 </div>
-
-<p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=1000&color=38BDF8&center=true&vCenter=true&width=1000&lines=Hello+there!+fellow+%3C+developers+%2F%3E+👋;MERN+Stack+Developer;Competitive+Programmer;AI+Builder+%26+Cybersecurity+Enthusiast"
-    alt="Typing SVG"
-  />
-</p>
  
 
   
