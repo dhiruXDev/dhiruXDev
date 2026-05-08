@@ -46,11 +46,8 @@ const Developer = () => {
 
 ## ⚒️ What I'm Currently Working On
 
-- 🤖 **Jarvis-like AI Assistant (MERN + Python Hybrid)**
-- 💬 **Real-time Chat App (WhatsApp )**
-- 🏥 **MediSync – Hospital Management System**
-- 💼 **Job Portal with Smart Filters + AI Chatbot**
-- 📊 AI-powered **GitHub Code Explainer**
+-  **Jarvis-like AI Assistant (MERN + Python Hybrid)**
+-  AI-powered **GitHub Code Explainer**
 
 ---
 
