@@ -18,10 +18,9 @@ Ultra-clean modern version:
 ````
 <div align="center">
 
-<img
-  src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=61DAFB&center=true&vCenter=true&multiline=true&repeat=true&width=1000&height=180&lines=const+Developer+%3D+()%3D%3E+%7B;++++return+(;++++++++%3Ch1%3E;++++++++++++Hello+World!+Welcome%2C+fellow+developers+👋;++++++++%3C%2Fh1%3E;++++);%7D%3B"
-  alt="Typing SVG"
-/>
+https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=61DAFB&center=true&vCenter=true&multiline=true&repeat=true&width=1000&height=180&lines=const+Developer+%3D+()%3D%3E+%7B;++++return+(;++++++++%3Ch1%3E;++++++++++++Hello+World!+Welcome%2C+fellow+developers+👋;++++++++%3C%2Fh1%3E;++++);%7D%3B
+
+
 
 </div>
 
