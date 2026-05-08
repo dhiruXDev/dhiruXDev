@@ -5,21 +5,11 @@
 <h1 align="center"> Hello there! fellow < developers !> 👋</h1>
   
 
-Ultra-clean modern version:
 
-````md id="2q7y4m"
-```jsx
-<p align="center">
-  <img
-    src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=35&pause=1000&color=FFFFFF&center=true&vCenter=true&width=900&lines=Hello+there!+fellow+%3C+developers+!%3E"
-    alt="Typing Animation"
-  />
-</p>
-````
  
-<div align="center">
+<div align="">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&multiline=true&repeat=true&width=1100&height=180&lines=const+Developer+=+()+=%3E+%7B;%C2%A0%C2%A0return+(;%C2%A0%C2%A0%C2%A0%C2%A0%3Ch1%3E+Hello+World!+Welcome,+fellow+developers+%F0%9F%91%8B+%3C%2Fh1%3E;%C2%A0%C2%A0);;%7D;" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=100&color=38BDF8&center=true&vCenter=true&multiline=true&repeat=true&width=500&height=180&lines=const+Developer+=+()+=%3E+%7B;%C2%A0%C2%A0return+(;%C2%A0%C2%A0%C2%A0%C2%A0%3Ch1%3E+Hello+World!+Welcome,+fellow+developers+%F0%9F%91%8B+%3C%2Fh1%3E;%C2%A0%C2%A0);;%7D;" alt="Typing SVG" />
 
 </div>
  
