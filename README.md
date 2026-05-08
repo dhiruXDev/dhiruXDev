@@ -3,6 +3,15 @@
 </p>
   
 <h1 align="center"> Hello there! fellow < developers !> 👋</h1>
+  
+  const Developer = () => {
+  return (
+    <h1>
+      Hello World! Welcome, fellow developers 👋
+    </h1>
+  );
+};
+  
 <h3 align="center">MERN Stack Web Developer | Competitive Programmer |  AI Builder</h3>
 
 <p align="center">
@@ -277,30 +286,6 @@
 
 ---
 
-## 🔥 Highlight Projects
-
-### 🏥 MediSync (Hospital Management System)
-- Role-based dashboards (Admin, Doctor, Patient)
-- Appointment booking & EHR system
-- AI-powered lab report analysis
-- Tech: MERN + Cloudinary + Twilio
-
----
-
-### 💬 WhatsApp Clone
-- Real-time messaging (Socket.io)
-- Audio/Video calling (Zego)
-- Google Auth (Firebase)
-- Tech: Next.js + PostgreSQL + Prisma
-
----
-
-### 💼 Job Portal
-- Dynamic job filtering (Redux)
-- Chatbot integration
-- Scalable UI with Tailwind
-
----
 
 ## 🧠 Quote
 
