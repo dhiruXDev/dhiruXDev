@@ -4,15 +4,39 @@
   
 <h1 align="center"> Hello there! fellow < developers !> 👋</h1>
   
- ```jsx
-const Developer = () => {
-  return (
-    <h1>
-      Hello World! Welcome, fellow developers 👋
-    </h1>
-  );
-};
+
+Ultra-clean modern version:
+
+````md id="2q7y4m"
+```jsx
+<p align="center">
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=35&pause=1000&color=FFFFFF&center=true&vCenter=true&width=900&lines=Hello+there!+fellow+%3C+developers+!%3E"
+    alt="Typing Animation"
+  />
+</p>
 ```
+
+
+Multi-line premium version:
+
+````md id="7k0q8t"
+```jsx
+<h1 align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=1000&color=38BDF8&center=true&vCenter=true&width=1000&lines=Hello+there!+fellow+%3C+developers+%2F%3E+👋;MERN+Stack+Developer;Competitive+Programmer;AI+%26+Cybersecurity+Enthusiast"
+    alt="Typing SVG"
+  />
+</h1>
+
+```jsx
+<h1 align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=34&pause=1000&color=FFFFFF&center=true&vCenter=true&width=900&lines=Hello+World!+Welcome%2C+fellow+developers+👋"
+    alt="Typing SVG"
+  />
+</h1>
+````
   
 <h3 align="center">MERN Stack Web Developer | Competitive Programmer |  AI Builder</h3>
 
