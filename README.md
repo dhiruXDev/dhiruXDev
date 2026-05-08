@@ -4,13 +4,15 @@
   
 <h1 align="center"> Hello there! fellow < developers !> 👋</h1>
   
-  `const Developer = () => {
+ ```jsx
+const Developer = () => {
   return (
     <h1>
       Hello World! Welcome, fellow developers 👋
     </h1>
   );
-};`
+};
+```
   
 <h3 align="center">MERN Stack Web Developer | Competitive Programmer |  AI Builder</h3>
 
