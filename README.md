@@ -16,6 +16,12 @@ Ultra-clean modern version:
   />
 </p>
 ````
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=1000&color=38BDF8&center=true&vCenter=true&width=1000&lines=Hello+there!+fellow+%3C+developers+%2F%3E+👋;MERN+Stack+Developer;Competitive+Programmer;AI+Builder+%26+Cybersecurity+Enthusiast"
+    alt="Typing SVG"
+  />
+</p>
  
 
   
