@@ -36,7 +36,7 @@ Multi-line premium version:
     alt="Typing SVG"
   />
 </h1>
-````
+
   
 <h3 align="center">MERN Stack Web Developer | Competitive Programmer |  AI Builder</h3>
 
