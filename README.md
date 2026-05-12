@@ -61,7 +61,7 @@
 ## 📫 Contact Me
 
 - 📧 Email: **dhirajk22410@gmail.com**
-- 💼 LinkedIn: **(https://www.linkedin.com/in/kumardhiraj01/)**
+- 💼 LinkedIn: **https://www.linkedin.com/in/kumardhiraj01/**
 - 🌐 Portfolio: **https://my-portfoliyo-dhiraj-kumar.vercel.app/**
 
 ---
