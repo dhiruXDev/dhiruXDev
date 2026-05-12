@@ -60,7 +60,7 @@
 
 ## 📫 Contact Me
 
-- 📧 Email: **dhirajk22410@gmail.com**
+- 📧 Email: **kumar.dhiru001@gmail.com**
 - 💼 LinkedIn: **https://www.linkedin.com/in/kumardhiraj01/**
 - 🌐 Portfolio: **https://my-portfoliyo-dhiraj-kumar.vercel.app/**
 
