@@ -16,7 +16,7 @@
 <h3 align="center">MERN Stack Web Developer | Competitive Programmer |  AI Builder</h3>
 
 <p align="center">
-  <a href="mailto:dhirajk22410@gmail.com">
+  <a href="mailto:kumar.dhiru001@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="[https://linkedin.com/in/your-profile](https://www.linkedin.com/in/dhiraj-kumar-680762327/)">
@@ -61,7 +61,7 @@
 ## 📫 Contact Me
 
 - 📧 Email: **dhirajk22410@gmail.com**
-- 💼 LinkedIn: **[https://linkedin.com/in/your-profile](https://www.linkedin.com/in/dhiraj-kumar-680762327/)**
+- 💼 LinkedIn: **(https://www.linkedin.com/in/kumardhiraj01/)**
 - 🌐 Portfolio: **https://my-portfoliyo-dhiraj-kumar.vercel.app/**
 
 ---
